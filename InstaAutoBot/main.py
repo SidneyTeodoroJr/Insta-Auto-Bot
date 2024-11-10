@@ -22,7 +22,7 @@ def main(page: ft.Page):
 
     # Função para abrir o site
     def open_website(e):
-        webbrowser.open("https://flet.dev/")  # Altere a URL para o site que você deseja abrir
+        webbrowser.open("https://github.com/SidneyTeodoroJr/Bolsa_de_Valores")
 
     # Configurando o appbar com o botão "INFO" que abre o site
     page.appbar = ft.CupertinoAppBar(
