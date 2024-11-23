@@ -1,6 +1,0 @@
-flet==0.22.*
-pyautogui==
-webbrowser==
-pynput==
-tkinter==
-opencv-python==
