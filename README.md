@@ -13,9 +13,7 @@
  Este é um projeto de automação para interagir com o Instagram, para automatizar a interação com publicações, dando "likes" em postagens. O bot utiliza a biblioteca PyAutoGUI para simular a navegação humana.
 <p/>
 
-<video id="VisaChipCardVideo" width="1080" controls>
- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-</video>
+
 
 ### Tecnologias usada:
 [Python](https://docs.python.org/3/)<br/>
@@ -35,7 +33,7 @@ O projeto está dividido para melhor organização e modularidade.
 <br/>
 
 1. [main.py](https://github.com/SidneyTeodoroJr/Insta-Auto-Bot/blob/main/src/main.py): O ponto de entrada da aplicação que importa e utiliza os módulos e scripts necessários.
-2. [page.py](https://github.com/SidneyTeodoroJr/Insta-Auto-Bot/blob/main/src/modules/image_search.py):  Esse módulo localizar e efetua o clique em uma imagem específica na tela do computador.
+2. [image_search.py](https://github.com/SidneyTeodoroJr/Insta-Auto-Bot/blob/main/src/modules/image_search.py):  Esse módulo localizar e efetua o clique em uma imagem específica na tela do computador.
 
 <br/><br/>
 
