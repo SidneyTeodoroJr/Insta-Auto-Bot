@@ -13,7 +13,10 @@
  Este é um projeto de automação para interagir com o Instagram, para automatizar a interação com publicações, dando "likes" em postagens. O bot utiliza a biblioteca PyAutoGUI para simular a navegação humana.
 <p/>
 
+<h2>Download da Aplicação</h2>
 
+<a href="https://github.com/SidneyTeodoroJr/Insta-Auto-Bot/blob/main/src/deploy/windows.rar?raw=true" download>Windows</a>
+</br>
 
 ### Tecnologias usada:
 [Python](https://docs.python.org/3/)<br/>
