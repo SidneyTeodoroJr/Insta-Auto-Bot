@@ -2,7 +2,7 @@
 </br>
 
 <div align="center">
-<img src="https://github.com/SidneyTeodoroJr/instagram_like_robot/blob/main/img/Instagram%20Like%20Bot.jpg" alt="Digital Whiteboard">
+<img src="https://github.com/SidneyTeodoroJr/Insta-Auto-Bot/blob/main/src/assets/banner.jpg" alt="Banner">
 </div>
 </br>
 </br>
@@ -34,22 +34,24 @@ O projeto está dividido para melhor organização e modularidade.
 <p/>
 <br/>
 
-1. [main.py](https://github.com/SidneyTeodoroJr/Bolsa_de_Valores/blob/main/src/main.py): O ponto de entrada da aplicação que importa e utiliza os módulos e scripts necessários.
-2. [page.py](https://github.com/SidneyTeodoroJr/Bolsa_de_Valores/blob/main/src/modulos/page.py):  localizar uma imagem específica na tela e interagem automaticamente.<br/><br/>
+1. [main.py](https://github.com/SidneyTeodoroJr/Insta-Auto-Bot/blob/main/src/main.py): O ponto de entrada da aplicação que importa e utiliza os módulos e scripts necessários.
+2. [page.py](https://github.com/SidneyTeodoroJr/Insta-Auto-Bot/blob/main/src/modules/image_search.py):  Esse módulo localizar e efetua o clique em uma imagem específica na tela do computador.
+
+<br/><br/>
 
 ## Funcionalidades   
 
 . Abre o navegador e acessa o Instagram.<br/>
-. Localiza e clica em botões de "like" nas postagens.<br/>
+. Localiza e clica em botões de "like" e "seguir" nas postagens.<br/>
 . Detecta a tecla 'ESC' para interromper a automação.<br/>
 
 ## Instruções de Execução
 1. ative o ambiente virtual:
    ```shell
-   bot/Scripts/Activate.ps1 
+   InstaBot/Scripts/Activate.ps1 
 2. Instale as dependências necessárias usando:
     ```shell
-    pip install -r requirements.txt
+    pip install -r src\requirements.txt
 3. Execute o o bot com o comando:
    ```shell
    python src\main.py
@@ -57,8 +59,8 @@ O projeto está dividido para melhor organização e modularidade.
 
 ## Customização
 
-. Você pode ajustar o `tempo` de espera e a `confidence` na correspondência da imagem na classe `ImageLocator` para melhorar a precisão da automação. <br/><br/>
-. Adicione ou remova imagens na lista da função `bot_click_like()` para personalizar as ações do bot. <br/><br/>
+. Você pode ajustar o tempo de espera e a `confidence` na correspondência da imagem na classe `ImageLocator` para melhorar a precisão da automação. <br/><br/>
+. Adicione ou remova imagens na lista da função `bot_click()` para personalizar as ações do bot. <br/><br/>
 
 ## Aviso
 
