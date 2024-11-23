@@ -57,7 +57,7 @@ def main_bot():
 
         bot_seta()
 
-        def bot_click_like():
+        def bot_click():
             imagens = [
                 os.path.join("assets", "img-steps", "msg_alerta_light.png"), 
                 os.path.join("assets", "img-steps", "msg_alerta_dark.png"),
@@ -85,7 +85,7 @@ def main_bot():
         def like_loop():
             global running
             while running:
-                bot_click_like()
+                bot_click()
 
                 pg.sleep(5)
                 pg.scroll(-500)
