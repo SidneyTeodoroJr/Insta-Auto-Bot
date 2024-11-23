@@ -14,7 +14,7 @@
 <p/>
 
 <p>
- O diferencial do InstaAutoBot está na automação de processos repetitivos, proporcionando uma redução significativa no tempo gasto com tarefas manuais. Ao otimizar fluxos de trabalho, ele permite que as equipes se concentrem no que realmente importa, aumentando a produtividade e a eficiência
+ O diferencial do InstaAutoBot está na automação de processos repetitivos, proporcionando uma redução significativa no tempo gasto com tarefas manuais. Ao otimizar fluxos de trabalho, ele permite que as equipes se concentrem no que realmente importa, aumentando a produtividade e a eficiência.
 </p>
 
 <h2>Download da Aplicação</h2>
