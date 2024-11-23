@@ -10,7 +10,7 @@
 
 ## Visão Geral
 <p>
- Este é um projeto de automação para interagir com o Instagram, para automatizar a interação com publicações, dando "likes" em postagens. O bot utiliza a biblioteca PyAutoGUI para simular a navegação humana.
+ Este é um projeto de automação para interagir com o Instagram, para automatizar a interação com publicações. O bot utiliza a biblioteca PyAutoGUI para simular a navegação humana.
 <p/>
 
 <p>
